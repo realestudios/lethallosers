@@ -1,0 +1,9 @@
+{
+  "name": "LethalLosers",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/realestudios/lethallosers",
+  "description": "Mod pack for the Lethal Losers crew.",
+  "dependencies": [
+    "MythicManiac-TestMod-1.1.0"
+  ]
+}
