@@ -1,64 +1,64 @@
 {
-  "name": "LethalLosers",
+  "name": "LethalLosersModpacl",
   "version_number": "1.0.0",
   "website_url": "https://github.com/realestudios/lethallosers",
   "description": "Mod pack for the Lethal Losers crew.",
   "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100
-notnotnotswipez-MoreCompany-1.8.1
-AlexCodesGames-AdditionalContentFramework-1.0.3
-AlexCodesGames-AdditionalSuits-2.0.0
-anormaltwig-LateCompany-1.0.11
-HolographicWings-LethalExpansion-1.3.41
-TeamBridget-Peaches_Castle-1.0.41
-RugbugRedfern-Skinwalkers-4.0.1
-Pooble-LCBetterSaves-1.7.3
-Lordfirespeed-OdinSerializer-2022.11.9
-xilophor-LethalNetworkAPI-2.1.6
-AMRV-ConfigurableCompany-2.6.0
-AMRV-LethalCompanyVariables-1.9.0
-FlipMods-ReservedItemSlotCore-1.8.17
-FlipMods-ReservedFlashlightSlot-1.6.3
-FlipMods-ReservedWalkieSlot-1.6.2
-sfDesat-ViewExtension-1.1.0
-Tolian-Celestria-0.3.4
-AudioKnight-StarlancerMoons-0.5.7
-Tolian-Skytop-1.0.0
-sfDesat-ExpansionAssets-1.1.0
-sfDesat-Orion-1.3.0
-sfDesat-Aquatis-1.1.1
-Evaisa-LethalLib-0.14.2
-Major_And_Skiz-MoreInteriors-2.5.0
-Badham_Mods-SCPFoundationDungeon-3.0.0
-scoopy-Scoopys_Variety_Mod-1.2.0
-jockie-LethalExpansionCore-1.3.15
-Magic_Wesley-Infernis-3.0.0
-IAmBatby-LethalLevelLoader-1.1.6
-Piggy-LC_Office-1.0.11
-Zingar-Atlas_Abyss-1.1.8
-KayNetsua-E_Gypt_Moon-2.0.15
-Zingar-SecretLabs-3.3.7
-sfDesat-Celest-0.2.1
-Ceelery-Kast-1.0.3
-Evaisa-HookGenPatcher-0.0.5
-sfDesat-Explorations-2.2.0
-Hardy-LCMaxSoundsFix-1.1.0
-tinyhoot-ShipLoot-1.0.0
-Hypick-BetterShotgun-1.4.1
-AgentRev-ShootableMouthDogs-1.0.1
-Ozone-Runtime_Netcode_Patcher-0.2.5
-Sligili-More_Emotes-1.3.3
-Suskitech-AlwaysHearActiveWalkies-1.4.4
-x753-More_Suits-1.4.1
-Verity-TooManySuits-1.0.5
-Hexnet111-SuitSaver-1.1.4
-Midge-PushCompany-1.2.0
-SweetOnion-LethalSnap-1.5.0
-JunLethalCompany-GamblingMachineAtTheCompany-1.3.5
-Tolian-Maritopia-0.2.4
-Rune580-LethalCompany_InputUtils-0.6.3
-DMF-1069b-1.0.0
-AudioKnight-StarlancerAIFix-2.0.0
-mrov-TerminalFormatter-0.0.4"
+    "BepInEx-BepInExPack-5.4.2100"
+    "notnotnotswipez-MoreCompany-1.8.1"
+    "AlexCodesGames-AdditionalContentFramework-1.0.3"
+    "AlexCodesGames-AdditionalSuits-2.0.0"
+    "anormaltwig-LateCompany-1.0.11"
+    "HolographicWings-LethalExpansion-1.3.41"
+    "TeamBridget-Peaches_Castle-1.0.41"
+    "RugbugRedfern-Skinwalkers-4.0.1"
+    "Pooble-LCBetterSaves-1.7.3"
+    "Lordfirespeed-OdinSerializer-2022.11.9"
+    "xilophor-LethalNetworkAPI-2.1.6"
+    "AMRV-ConfigurableCompany-2.6.0"
+    "AMRV-LethalCompanyVariables-1.9.0"
+    "FlipMods-ReservedItemSlotCore-1.8.17"
+    "FlipMods-ReservedFlashlightSlot-1.6.3"
+    "FlipMods-ReservedWalkieSlot-1.6.2"
+    "sfDesat-ViewExtension-1.1.0"
+    "Tolian-Celestria-0.3.4"
+    "AudioKnight-StarlancerMoons-0.5.7"
+    "Tolian-Skytop-1.0.0"
+    "sfDesat-ExpansionAssets-1.1.0"
+    "sfDesat-Orion-1.3.0"
+    "sfDesat-Aquatis-1.1.1"
+    "Evaisa-LethalLib-0.14.2"
+    "Major_And_Skiz-MoreInteriors-2.5.0"
+    "Badham_Mods-SCPFoundationDungeon-3.0.0"
+    "scoopy-Scoopys_Variety_Mod-1.2.0"
+    "jockie-LethalExpansionCore-1.3.15"
+    "Magic_Wesley-Infernis-3.0.0"
+    "IAmBatby-LethalLevelLoader-1.1.6"
+    "Piggy-LC_Office-1.0.11"
+    "Zingar-Atlas_Abyss-1.1.8"
+    "KayNetsua-E_Gypt_Moon-2.0.15"
+    "Zingar-SecretLabs-3.3.7"
+    "sfDesat-Celest-0.2.1"
+    "Ceelery-Kast-1.0.3"
+    "Evaisa-HookGenPatcher-0.0.5"
+    "sfDesat-Explorations-2.2.0"
+    "Hardy-LCMaxSoundsFix-1.1.0"
+    "tinyhoot-ShipLoot-1.0.0"
+    "Hypick-BetterShotgun-1.4.1"
+    "AgentRev-ShootableMouthDogs-1.0.1"
+    "Ozone-Runtime_Netcode_Patcher-0.2.5"
+    "Sligili-More_Emotes-1.3.3"
+    "Suskitech-AlwaysHearActiveWalkies-1.4.4"
+    "x753-More_Suits-1.4.1"
+    "Verity-TooManySuits-1.0.5"
+    "Hexnet111-SuitSaver-1.1.4"
+    "Midge-PushCompany-1.2.0"
+    "SweetOnion-LethalSnap-1.5.0"
+    "JunLethalCompany-GamblingMachineAtTheCompany-1.3.5"
+    "Tolian-Maritopia-0.2.4"
+    "Rune580-LethalCompany_InputUtils-0.6.3"
+    "DMF-1069b-1.0.0"
+    "AudioKnight-StarlancerAIFix-2.0.0"
+    "mrov-TerminalFormatter-0.0.4"
   ]
 }
