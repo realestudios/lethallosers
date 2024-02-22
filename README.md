@@ -6,6 +6,14 @@ Finally, we have a better solution to sharing mods. Rather than typing codes, yo
 
 ## CHANGELOG:
 
+### 1.0.2
+
+Added Yippee mod
+
+### 1.0.1
+
+Removed broken dependency
+
 ### 1.0.0
 
 First release! All mods have been compiled into one convenient pack.
