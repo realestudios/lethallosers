@@ -1,6 +1,142 @@
+### 4.9.1
 
+- Added MoonUnlockUnhide
 
-## CHANGELOG:
+- Added back Aquatis (turns out the group still wants that one)
+
+### 4.9.0
+
+I intended to slim the pack down and I wound up adding a bunch of moons instead.
+
+- Added all of RosiePie's moons
+
+- Added LCOffice, Slaughterhouse interior + scrap, USC Vortex interior
+
+- Removed Trenches, SM64Scrap, and Aquatis
+
+- Increased version numbers
+
+- Belt Bag should now carry with you when teleported
+
+### 4.8.1
+
+- Added my stupid new guitar scrap for my bandmate
+
+### 4.8.0
+
+- Added Skytops re-release
+
+### 4.7.0
+
+Added:
+
+- Atomic Cosmetics
+
+- Emissive Suits
+
+- Black Mesa Interior Mod
+
+- Wider Ship
+
+- 2 Story Ship
+
+- Ship Windows
+
+Changed config settings for last three
+
+### 4.6.0
+
+- Added SM64 Scrap to avoid conflicts
+
+### 4.5.2
+
+- Added Belt Bag slot
+
+- Removed KindapperFoxSettings for v64
+
+### 4.5.1
+
+Added Shifting Sand Lands, a beta moon I'm working on
+
+### 4.5.0
+
+Removed many things, added a few things. Fresh profile recommended
+
+### 4.4.10
+
+Added Goldeneye elevator music
+
+### 4.4.9
+
+Added my moon pack, SM64 moons
+
+### 4.4.8
+
+Config updates, readme updates
+
+### 4.4.7
+
+Config updates, weather probe
+
+### 4.4.6
+
+Added TeleportDecline
+
+### 4.4.5
+
+Pack pulls latest versions as of 8/9/24 so you don't have 56+ updates after downloading the pack. Did some internal organization so it's easier for me to keep up with such affairs. Added AlwaysPickup.
+
+### 4.4.4
+
+Added bomb collar
+
+### 4.4.3
+
+Added back Metroid suits as they weren't the issue and I love them
+
+### 4.4.2
+
+Removed Metroid suits due to potential complications with another addon. Added Peeper and Shopping Cart.
+
+### 4.4.1
+
+Added Metroid suits
+
+### 4.4.0
+
+Added Whomp's Fortress (beta)
+
+### 4.3.2
+
+Added Scrap_Insurance and Extend_Deadline. Tweaked config files. 
+
+### 4.3.1
+
+Added MultiCruiser
+
+### 4.3.0
+
+Added LethalApertureMoon and LethalApertureDunGen. Tweaked config
+
+### 4.2.0 (Nice)
+
+Added Gorgonzola, Outpost 31, and Trenches. Removed Coconut Mall as it seems to be broken.
+
+### 4.1.10
+
+Changed dependancy version for BigBoosHaunt
+
+### 4.1.9
+
+Config tweaks
+
+### 4.1.8
+
+Added BigBoosHaunt, another moon I am developing! In beta.
+
+### 4.1.7
+
+Tweaked config files
 
 ### 4.1.6
 
@@ -38,7 +174,7 @@ More config tweaks
 
 Removed conflicting mod
 
-### 4.0.4
+### 4.0.4 (Page not found)
 
 New moon, config tweaks
 

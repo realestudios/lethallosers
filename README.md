@@ -1,15 +1,11 @@
 # Gather 'round, losers!
 
 
-### v56 compatible. Start with fresh pack for 4.0.0 update!
-
-### Incompatible with anything that uses LethalExpansion as a dependancy.
-
-If you need LethalExpansion, use the 3.3.4 version of this pack, disable LethalLevelLoader and LethalExpansionCore, and do not update it.
+### v69 compatible. Start with fresh pack for 4.0.0 update!
 
 ## 
 
-Modpack for my lethal crew. Enjoy!
+Modpack for my lethal crew, but you'll enjoy it too!
 
 With this modpack, you can:
 
@@ -28,3 +24,9 @@ With this modpack, you can:
 - Run from new enemies and hazards
 
 Also includes quality of life mods and many other additions.
+
+Most things have been customized from defaults. This pack is regularly updated to ensure nothing breaks and to keep things fresh!
+
+You need at least 16gb RAM to use this pack. If you have 8gb or less, you can use my other pack, LethalLosersCompatibility, which doesn't have custom moons.
+
+If running on Linux and 16gb RAM, make sure you have an active swap partition or the game will crash when loading.
